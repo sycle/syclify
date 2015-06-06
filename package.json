@@ -1,0 +1,29 @@
+{
+  "name": "syclify",
+  "version": "0.0.1",
+  "description": "A help tool for creating sycle application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sycle/syclify.git"
+  },
+  "author": "Tao Yuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sycle/syclify/issues"
+  },
+  "homepage": "https://github.com/sycle/syclify",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "needs": "^0.1.5",
+    "sycle": "sycle/sycle",
+    "sycle-core": "sycle/sycle-core"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "syclify",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A help tool for creating sycle application",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "dependencies": {
     "lodash": "^2.4.1",
     "needs": "^0.1.5",
-    "sycle": "sycle/sycle"
+    "sycle": "^0.2.6"
   }
 }
